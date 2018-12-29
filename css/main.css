@@ -2276,7 +2276,7 @@ html.no-csstransitions .home-content__main {
 
 .timeline__desc p {
     margin: 0;
-    padding-bottom: 3rem;
+    padding-bottom: 0.5rem;
 }
 
 
